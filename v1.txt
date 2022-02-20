@@ -1,4 +1,4 @@
-0.0.0.0 ublockpop.com
-0.0.0.0 downloadavailablebelow.com
-0.0.0.0 join.worldoftanks.eu
-0.0.0.0 msn.com
+72.14.192.0 ublockpop.com
+72.14.192.0 downloadavailablebelow.com
+72.14.192.0 join.worldoftanks.eu
+72.14.192.0 msn.com
