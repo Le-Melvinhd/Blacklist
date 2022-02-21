@@ -5,3 +5,5 @@
 72.14.192.0 fr.stop-bot.com
 72.14.192.0 download-is-ready.com
 72.14.192.0 mon-look.com
+72.14.192.0 le-baroudeur.com
+72.14.192.0 bingocaptchapoint.top
