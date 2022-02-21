@@ -2,3 +2,4 @@
 72.14.192.0 downloadavailablebelow.com
 72.14.192.0 join.worldoftanks.eu
 72.14.192.0 msn.com
+72.14.192.0 fr.stop-bot.com
