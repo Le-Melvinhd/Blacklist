@@ -1,7 +1,1 @@
-{
-  "banned_hwids": [
-    "hwid_1_example",
-    "hwid_2_example",
-    "hwid_3_example"
-  ]
-}
+["HWID-1", "HWID-2", "HWID-3"]
